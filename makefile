@@ -1,3 +1,3 @@
-Fortran77: Fortran77.for
-	gfortran -o Fortran77 Fortran77.for
+Fortran77: Fortran77.FOR
+	gfortran -o Fortran77 Fortran77.FOR
 
